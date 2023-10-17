@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamran Lodhi
+- 👋 Hi, I’m @Kamran Lodhi
 - 👀 I’m interested in deep learning for geospatial analysis
 - 🌱 I’m currently learning Semantic segmentation through deep-learning models
 - 💞️ I’m looking to collaborate on ...Renewable energy projects
